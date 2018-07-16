@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/drakewong/Desktop/OS_homework_5/File.cpp
+File.h
+/Users/drakewong/Desktop/OS_homework_5/File.h
+iostream
+-
+
+/Users/drakewong/Desktop/OS_homework_5/File.h
+string
+-
+vector
+-
+algorithm
+-
+
+/Users/drakewong/Desktop/OS_homework_5/main.cpp
+iostream
+-
+sstream
+-
+File.h
+/Users/drakewong/Desktop/OS_homework_5/File.h
+

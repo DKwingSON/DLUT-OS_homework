@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/drakewong/Desktop/OS_homework_2/Read.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+stdlib.h
+-
+stdio.h
+-
+string
+-
+Read.h
+/Users/drakewong/Desktop/OS_homework_2/Read.h
+
+/Users/drakewong/Desktop/OS_homework_2/Read.h
+vector
+-
+stdlib.h
+-
+stdio.h
+-
+string
+-
+
